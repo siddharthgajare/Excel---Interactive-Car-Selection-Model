@@ -26,8 +26,4 @@ This project aims to build a recommendation system to assist users in finding th
 
 ## Conclusion
 
-This project showcases a basic recommendation system for car selection, utilizing Excel for data manipulation, formulae, and visualization. With more data and advanced algorithms, such systems can offer highly personalized car recommendations.
-
----
-
-This README highlights the objectives, methodology, key findings, and the use of Excel skills in developing the Car Selection Recommendation System.
+This project demonstrates a advanced recommendation system using Excel skills to aid users in car selection. By collecting user inputs, displaying key car specifications, and refining suggestions, it provides a user-friendly tool for informed decision-making. With potential for further data enhancement and algorithm refinement, this system can evolve to offer highly personalized recommendations.
