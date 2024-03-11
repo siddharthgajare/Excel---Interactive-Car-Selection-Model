@@ -26,4 +26,4 @@ This project aims to build a recommendation system to assist users in finding th
 
 ## Conclusion
 
-This project demonstrates a advanced recommendation system using Excel skills to aid users in car selection. By collecting user inputs, displaying key car specifications, and refining suggestions, it provides a user-friendly tool for informed decision-making. With potential for further data enhancement and algorithm refinement, this system can evolve to offer highly personalized recommendations.
+This project demonstrates a advanced recommendation system using Excel skills to aid users in car selection. By collecting user inputs, displaying key car specifications, and refining suggestions, it provides a user-friendly tool for informed decision-making. 
