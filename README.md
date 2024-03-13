@@ -13,7 +13,7 @@ This project aims to build a recommendation system to assist users in finding th
 
 ## Key Findings
 
-- Dataset includes specifications of over 15 car models (brands: Lexus, BMW, Mercedes, Audi, etc.).
+- Dataset includes specifications of over 50 car models (brands: Lexus, BMW, Mercedes, Audi, etc.).
 - Users can input budget ($20k-$100k), fuel economy preferences, cargo needs, and horsepower preferences.
 - Initial top suggestions: Lexus LS, Genesis G90, BMW 7 Series, Mercedes C-Class, etc.
 - Users can rate attributes and provide additional preferences for personalized recommendations.
